@@ -1,0 +1,16 @@
+.body1{
+    background-color: blue;
+}
+.body2{
+    background-color: brown;
+}
+.body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.gallery img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 10px;
+}
